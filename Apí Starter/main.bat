@@ -1,0 +1,2 @@
+   start frontend
+    start backend
